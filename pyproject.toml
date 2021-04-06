@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "similarity-arango"
+version = "0.1.0"
+description = ""
+authors = ["Roni Choudhury <roni.choudhury@kitware.com>"]
+license = "Apache-2.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+python-arango = "^7.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
