@@ -1,1 +1,3 @@
 arangodb/
+data/edges.json
+data/nodes.json
